@@ -1,0 +1,10 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(28,67,93,1) 0%, rgba(0,212,255,1) 100%);
+}
+.quote-box h1{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+}
+.quote-box p{
+    font-family: "Alegreya", serif;
+}
